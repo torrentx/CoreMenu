@@ -1,0 +1,3 @@
+*.suo
+/src/CoreMenu/bin/Debug
+/src/CoreMenu/obj/Debug
